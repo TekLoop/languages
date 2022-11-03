@@ -1,0 +1,15 @@
+D:\misha\gb\c#\ex001_hello_console\bin\Debug\net6.0\ex001_hello_console.exe
+D:\misha\gb\c#\ex001_hello_console\bin\Debug\net6.0\ex001_hello_console.deps.json
+D:\misha\gb\c#\ex001_hello_console\bin\Debug\net6.0\ex001_hello_console.runtimeconfig.json
+D:\misha\gb\c#\ex001_hello_console\bin\Debug\net6.0\ex001_hello_console.dll
+D:\misha\gb\c#\ex001_hello_console\bin\Debug\net6.0\ex001_hello_console.pdb
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.csproj.AssemblyReference.cache
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.AssemblyInfoInputs.cache
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.AssemblyInfo.cs
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.csproj.CoreCompileInputs.cache
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.dll
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\refint\ex001_hello_console.dll
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.pdb
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ex001_hello_console.genruntimeconfig.cache
+D:\misha\gb\c#\ex001_hello_console\obj\Debug\net6.0\ref\ex001_hello_console.dll
