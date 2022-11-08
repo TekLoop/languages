@@ -3,7 +3,7 @@ Console.WriteLine("введите число");
 int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите второе число");
 int y = Convert.ToInt32(Console.ReadLine());
-int c;
+int c;// прога говорит является ли число квадратом другого
 
 if (x > y) // можно через оператор или ||(if (x*x=y || y*y=x)); также есть оператор и &&
 {
